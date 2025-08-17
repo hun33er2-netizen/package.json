@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stereobooster/package.json#readme",
   "dependencies": {
-    "markdown-toc": "^1.2.0"
+    "markdown-toc": "^1.2.0",
+    "@hunter/akfakd": "1.1.1"
   }
 }
